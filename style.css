@@ -1,0 +1,39 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:pink;
+}
+
+#box1{
+    background: url('https://media.istockphoto.com/id/1895174989/photo/flower-arrangement.webp?b=1&s=170667a&w=0&k=20&c=6I7ARh7fZzxCtrq7Y-XiI0LcSHDa0hh7mbT0frrUsqI=');
+}
+
+
+#box2{
+    background: url('https://media.istockphoto.com/id/1895174989/photo/flower-arrangement.webp?b=1&s=170667a&w=0&k=20&c=6I7ARh7fZzxCtrq7Y-XiI0LcSHDa0hh7mbT0frrUsqI=');
+}
+#box3{
+    background: url('https://media.istockphoto.com/id/1895174989/photo/flower-arrangement.webp?b=1&s=170667a&w=0&k=20&c=6I7ARh7fZzxCtrq7Y-XiI0LcSHDa0hh7mbT0frrUsqI=');
+}
+#box4{
+    background: url('https://media.istockphoto.com/id/1895174989/photo/flower-arrangement.webp?b=1&s=170667a&w=0&k=20&c=6I7ARh7fZzxCtrq7Y-XiI0LcSHDa0hh7mbT0frrUsqI=');
+}
+#box5{
+    background: url('https://media.istockphoto.com/id/1895174989/photo/flower-arrangement.webp?b=1&s=170667a&w=0&k=20&c=6I7ARh7fZzxCtrq7Y-XiI0LcSHDa0hh7mbT0frrUsqI=');
+}
+#box6{
+    background: url('https://media.istockphoto.com/id/1895174989/photo/flower-arrangement.webp?b=1&s=170667a&w=0&k=20&c=6I7ARh7fZzxCtrq7Y-XiI0LcSHDa0hh7mbT0frrUsqI=');
+}
+#box7{
+    background: url('https://media.istockphoto.com/id/1895174989/photo/flower-arrangement.webp?b=1&s=170667a&w=0&k=20&c=6I7ARh7fZzxCtrq7Y-XiI0LcSHDa0hh7mbT0frrUsqI=');
+}
+#box8{
+    background: url('https://media.istockphoto.com/id/1895174989/photo/flower-arrangement.webp?b=1&s=170667a&w=0&k=20&c=6I7ARh7fZzxCtrq7Y-XiI0LcSHDa0hh7mbT0frrUsqI=');
+}
+
+
+h1{
+    text-align: center;
+    color: aqua;
+
+    text-decoration: line-through;
+}
